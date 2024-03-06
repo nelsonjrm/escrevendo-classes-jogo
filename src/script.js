@@ -28,6 +28,5 @@ class Heroi {
     }
 }
 
-// Exemplo de uso:
 const heroi = new Heroi('Herói', 30, 'mago');
 heroi.atacar();
